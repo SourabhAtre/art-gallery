@@ -1,0 +1,23 @@
+.artist{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.left{
+    display: none;
+}
+.title h2{
+    margin-top: 30px;
+}
+.right{
+    margin-top: -65px !important;
+}
+.right a{
+    font-size: 15px !important ;
+}
+.right i{
+    font-size: 17px !important ;
+}
+.title{
+    margin-left: -40%;
+}
